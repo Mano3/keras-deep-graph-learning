@@ -1,12 +1,12 @@
-# Welcome to Keras Deep Learning on Graphs (Keras-DGL)
+## Keras-DGL: Keras Deep Learning on Graphs 
 
-The aim of this keras extension is to provide Sequential and Functional API for performing deep learning tasks on graphs. Specifically, Keras-DGL provides implementation for these particular type of layers, 
+Keras extension for Deep Learning tasks on Graphs using the Sequential and Functional API of keras. 
 
+Currently Available: 
 * Graph Convolutional Neural Networks (GraphCNN).
 * Graph Attention Convolutional Neural Networks (GraphAttentionCNN). 
 * Graph Convolutional Recurrent Neural Networks (GraphConvLSTM). 
-* Graph Capsule Convolutional Recurrent Neural Networks (GraphCapsuleCNN) TBD. 
-* Graph Message Passing Neural Networks (GraphNeuralNetworks) TBD. 
-* Keras-DGL also contains implementation of various graph convolutional filters TBD.
 
-Read the documentation: <http://vermaMachineLearning.github.io/keras-deep-graph-learning>
+Docs: <http://vermaMachineLearning.github.io/keras-deep-graph-learning>
+
+Forked from vermaMachineLearning/keras-deep-graph-learning for contributing the code of "Recurrent Graph Autoencoders. Peleg, Y. Feinberg, Y. ICCS 2018"  
